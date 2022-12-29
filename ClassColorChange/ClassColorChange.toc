@@ -1,0 +1,7 @@
+## Interface: 90006
+## Title: Class Color Change
+## Notes: Allows user to change color of raid frames
+## Author: Connor
+## Version: 0.0.1
+
+core.lua
